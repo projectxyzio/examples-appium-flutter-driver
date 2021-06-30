@@ -9,13 +9,14 @@ void main() {
   setUpAll(() async {
     driver = await createDriver(
         // You can replace this URL to HeadSpin WebDriver URL if you would like to run this command on HeadSpin environment.
+        // Please do not forget to add '/' in Dart.
         uri: Uri.parse('http://127.0.0.1:4723/wd/hub/'),
         desired: {
           'platformName': 'android',
           'appium:automationName': 'uiautomator2',
           // 'appium:automationName': 'flutter',
-          'appium:app': 'https://github.com/projectxyzio/webinar-20210630-appium-flutter-driver/blob/main/apps/app-release-with-key-no-ext.apk?raw=true',
-          // 'appium:app': 'https://github.com/projectxyzio/webinar-20210630-appium-flutter-driver/blob/main/apps/app-debug-with-ext-key.apk?raw=true',
+          'appium:app': 'https://github.com/projectxyzio/webinar-20210630-appium-flutter-driver/blob/master/apps/app-release-with-key-no-ext.apk?raw=true',
+          // 'appium:app': 'https://github.com/projectxyzio/webinar-20210630-appium-flutter-driver/blob/master/apps/app-debug-with-ext-key.apk?raw=true',
 
           // This UDID should update for your environment.
           'appium:udid': 'D0AA002182JC0202126',
