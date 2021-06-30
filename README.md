@@ -46,3 +46,12 @@ $ flutter build apk --debug
 # build/app/outputs/flutter-apk/app-release.apk will be generated.
 $ flutter build apk --release
 ```
+
+## Credits
+
+[![][headspin-wordmark]](https://headspin.io)
+
+This repository is maintained by [HeadSpin](https://headspin.io). HeadSpin is the next generation global platform for mobile app testing and monitoring.
+
+
+[headspin-wordmark]: docs/images/headspin-wordmark.png "HeadSpin"
