@@ -38,9 +38,11 @@ https://pub.dev/packages/appium_driver.
 ## When you want to modify the sample code and build them
 
 ```
-# debug build
-$ flutter apk --debug
+# Debug build
+# build/app/outputs/flutter-apk/app-debug.apk will be generated.
+$ flutter build apk --debug
 
-# release build
-$ flutter apk --release
+# Release build
+# build/app/outputs/flutter-apk/app-release.apk will be generated.
+$ flutter build apk --release
 ```
