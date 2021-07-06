@@ -49,9 +49,9 @@ $ flutter build apk --release
 
 ## Credits
 
-[![][headspin-wordmark]](https://headspin.io)
+[![][headspin-wordmark]](https://www.headspin.io/)
 
-This repository is maintained by [HeadSpin](https://headspin.io). HeadSpin is the next generation global platform for mobile app testing and monitoring.
+This repository is maintained by [HeadSpin](https://www.headspin.io/). HeadSpin is the next generation global platform for mobile app testing and monitoring.
 
 
 [headspin-wordmark]: docs/images/headspin-wordmark.png "HeadSpin"
