@@ -1,6 +1,6 @@
 # appium_flutter_webinar
 
-This repository is sample code in https://www.headspin.io/events/appium-for-flutter-app/
+This repository is sample code in https://www.headspin.io/webinar/deep-dive-into-appium-for-flutter-app
 
 ## Setup
 
